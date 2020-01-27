@@ -1,3 +1,5 @@
+# (c) William d'Avignon - 2020
+# coding : utf-8
 #Variables de base
 n = 20000
 l2 = list()
